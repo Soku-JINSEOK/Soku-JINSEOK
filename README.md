@@ -61,7 +61,6 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soku-JINSEOK&show_icons=true&locale=en&layout=compact" alt="jinseok" />
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soku-JINSEOK&show_icons=true&locale=en" alt="jinseok" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soku-JINSEOK&" alt="jinseok" /></p>
 
   ![Soku's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Soku-JINSEOK)
 
