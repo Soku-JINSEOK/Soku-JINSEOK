@@ -53,18 +53,5 @@
 	<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 <br>
-<br>
-<div align=center>
-	<h3>📊 Github Status 📊</h3>
-</div>
-
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soku-JINSEOK&show_icons=true&locale=en&layout=compact" alt="jinseok" />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soku-JINSEOK&show_icons=true&locale=en" alt="jinseok" /></p>
-
-  ![Soku's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Soku-JINSEOK)
-
-  ![](./profile-3d-contrib/profile-season-animate.svg)
-</div>
 
 
