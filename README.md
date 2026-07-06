@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm JINSEOK SEOK</h1>
 <h3 align="center">DX Engineer (Google Workspace & GCP & Salesforce CRM)</h3>
 <h3 align="center">From South Korea 🇰🇷 | Currently Working in Japan 🇯🇵</h3>
+<h4 align="center">🎓 Yeungjin University — Computer Science and Engineering</h4>
 
 <br>
 
@@ -45,6 +46,8 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 		<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 		<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
 		<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+		<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+		<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 		<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 		<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 	</div>
@@ -52,7 +55,8 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 	<div>
 		<p>🤖 AI & Automation 🤖</p>
 		<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-		<img src="https://img.shields.io/badge/Gemini--CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+		<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+		<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 	</div>
 	<br>
 	<div>
@@ -77,6 +81,8 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 		<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 		<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 		<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+		<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+		<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 		<img src="https://img.shields.io/badge/REST%20API-025E8C?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 		<img src="https://img.shields.io/badge/SOAP%20API-grey?style=for-the-badge&logo=xml&logoColor=white" />
 	</div>
@@ -99,6 +105,37 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 <br>
 
 <div align=center>
+	<h3>🗂 Projects 🗂</h3>
+</div>
+
+<div align="center">
+
+#### 🌐 Public
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Soku-Convention-Boilerplate](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate) | Reusable convention baseline for readable, automation-friendly, multi-stack repositories | Shell · AI-agent compatible |
+
+---
+
+#### 🔒 Private Projects (WIP)
+
+| Area | Stack | Status |
+|------|-------|--------|
+| Personal Portfolio Site | Go · Terraform · GCP · TypeScript | 🔒 In Progress |
+| Google Workspace Automation Platform | TypeScript · Python · GAS | 🔒 In Progress |
+| Web Video Editor (WebCodecs) | TypeScript · CSS | 🔒 In Progress |
+| GAS Report & Research Hub | JavaScript · GAS · HTML | 🔒 In Progress |
+| Architecture Visualization Tool | JavaScript · HTML | 🔒 In Progress |
+| Introduce Website | — | 🔒 In Progress |
+
+> Active development ongoing. Some projects will be open-sourced when ready.
+
+</div>
+
+<br>
+
+<div align=center>
 	<h3>🛠 Develop Tools 🛠</h3>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -106,6 +143,15 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+</div>
+
+<br>
+
+<div align=center>
+	<h3>📊 GitHub Stats 📊</h3>
+	<img src="https://github-readme-stats.vercel.app/api?username=Soku-JINSEOK&show_icons=true&theme=tokyonight&hide_border=true" />
+	<br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku-JINSEOK&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
