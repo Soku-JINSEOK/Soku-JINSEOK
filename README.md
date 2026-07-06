@@ -22,7 +22,7 @@ I am a <b>Digital Transformation (DX) Engineer</b> specializing in optimizing bu
 <details>
 <summary><b>日本語 (🇯🇵)</b></summary>
 <p>
-Google Workspace、Google Cloud Platform (GCP)、および Salesforce CRM を活用してビジネスプロセ스를最適化を推進する <b>DX エンジニア</b> です。クラウドネイティブなソリューションの設計と実装を通じて、技術的なアーキテクチャと業務効率の向上を繋ぐ役割を担っています。現在は、モダンなバックエンドシステム、堅牢なクラウドインフラストラクチャ、および AI 駆動の自動化の研究에情熱을 注いでいます。
+Google Workspace、Google Cloud Platform (GCP)、および Salesforce CRM を活用してビジネスプロセスの最適化を推進する <b>DX エンジニア</b> です。クラウドネイティブなソリューションの設計と実装を通じて、技術的なアーキテクチャと業務効率の向上を繋ぐ役割を担っています。現在は、モダンなバックエンドシステム、堅牢なクラウドインフラストラクチャ、および AI 駆動の自動化の研究に情熱を注いでいます。
 </p>
 </details>
 
@@ -44,7 +44,7 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 	<div>
 		<p>☁️ Cloud & Architecture ☁️</p>
 		<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-		<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+		<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 		<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 		<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 		<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -73,7 +73,7 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 		<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 		<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 		<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-		<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+		<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	</div>
 	<br>
 	<div>
@@ -89,7 +89,7 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 	<br>
 	<div>
 		<p>🗄️ Database 🗄️</p>
-		<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+		<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 		<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 	</div>
 </div>
@@ -149,9 +149,9 @@ Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활�
 
 <div align=center>
 	<h3>📊 GitHub Stats 📊</h3>
-	<img src="https://github-readme-stats.vercel.app/api?username=Soku-JINSEOK&show_icons=true&theme=tokyonight&hide_border=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Soku-JINSEOK&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku-JINSEOK&layout=compact&theme=tokyonight&hide_border=true" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku-JINSEOK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 <br>
