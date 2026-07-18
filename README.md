@@ -1,157 +1,144 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Soku%20DX%20Engineering&fontSize=70" />	
-</div>
-
-<h1 align="center">Hi 👋, I'm JINSEOK SEOK</h1>
-<h3 align="center">DX Engineer (Google Workspace & GCP & Salesforce CRM)</h3>
-<h3 align="center">From South Korea 🇰🇷 | Currently Working in Japan 🇯🇵</h3>
-<h4 align="center">🎓 Yeungjin University — Computer Science and Engineering</h4>
-
-<br>
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 
 <div align="center">
-	<h2>About Me (🇺🇸 / 🇯🇵 / 🇰🇷)</h2>
+  <a href="https://github.com/Soku-JINSEOK">
+    <img src="https://github.com/Soku-JINSEOK.png?size=180" width="140" alt="Profile photo of JINSEOK SEOK">
+  </a>
 
-<details>
-<summary><b>English (🇺🇸)</b></summary>
-<p>
-I am a <b>Digital Transformation (DX) Engineer</b> specializing in optimizing business processes through the Google ecosystem and Salesforce CRM. With expertise in <b>Google Cloud Platform (GCP)</b> and <b>Google Workspace</b>, I design and implement cloud-native solutions that bridge technical architecture with business efficiency. I am passionate about exploring modern backend systems, robust cloud infrastructures, and AI-driven automation.
-</p>
-</details>
+  <h1>JINSEOK SEOK</h1>
 
-<details>
-<summary><b>日本語 (🇯🇵)</b></summary>
-<p>
-Google Workspace、Google Cloud Platform (GCP)、および Salesforce CRM を活用してビジネスプロセスの最適化を推進する <b>DX エンジニア</b> です。クラウドネイティブなソリューションの設計と実装を通じて、技術的なアーキテクチャと業務効率の向上を繋ぐ役割を担っています。現在は、モダンなバックエンドシステム、堅牢なクラウドインフラストラクチャ、および AI 駆動の自動化の研究に情熱を注いでいます。
-</p>
-</details>
+  <p><strong>DX Engineer · Building Soku</strong></p>
 
-<details>
-<summary><b>한국어 (🇰🇷)</b></summary>
-<p>
-Google Workspace, Google Cloud Platform (GCP), 그리고 Salesforce CRM을 활용하여 비즈니스 프로세스 최적화를 주도하는 <b>DX 엔지니어</b>입니다. 클라우드 네이티브 솔루션 설계 및 구현을 통해 기술적 아키텍처와 비즈니스 효율성을 연결하는 역할을 수행하고 있습니다. 현재는 현대적인 백엔드 시스템과 견고한 클라우드 인프라, 그리고 AI 기반 자동화 구축에 깊은 관심을 가지고 연구하고 있습니다.
-</p>
-</details>
+  <p>
+    I turn operational needs into maintainable software,<br>
+    repository conventions, and safe automation.
+  </p>
+
+  <p>
+    🇰🇷 한국어 · Native &nbsp;&nbsp; 🇯🇵 日本語 · Daily work &nbsp;&nbsp; 🌐 English · Documentation
+  </p>
+
+  <p>
+    <a href="https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate">Boilerplate</a>
+    · <a href="https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate/issues/23">Roadmap #23</a>
+    · <a href="https://github.com/users/Soku-JINSEOK/projects/2">Operations</a>
+  </p>
 </div>
 
-<br>
-
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-</div>
-
-<div align="center">
-	<div>
-		<p>☁️ Cloud & Architecture ☁️</p>
-		<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-		<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-		<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-		<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-		<img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-		<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-		<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-	</div>
-	<br>
-	<div>
-		<p>🤖 AI & Automation 🤖</p>
-		<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-		<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-		<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-	</div>
-	<br>
-	<div>
-		<p>💻 Languages 💻</p>
-		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-		<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-		<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-	</div>
-	<br>
-	<div>
-		<p>✨ Front-end ✨</p>
-		<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-		<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-		<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-		<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-		<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-	</div>
-	<br>
-	<div>
-		<p>⚙️ Back-end & API ⚙️</p>
-		<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-		<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-		<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-		<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-		<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-		<img src="https://img.shields.io/badge/REST%20API-025E8C?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-		<img src="https://img.shields.io/badge/SOAP%20API-grey?style=for-the-badge&logo=xml&logoColor=white" />
-	</div>
-	<br>
-	<div>
-		<p>🗄️ Database 🗄️</p>
-		<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-		<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-	</div>
-</div>
-
-<br>
-
-<div align=center>
-	<h3>🌱 Currently Learning & Implementing 🌱</h3>
-	<p>Focusing on <b>System Architecture using Golang and GCP Terraform</b>.</p>
-	<p>Currently implementing <b>MCP (Model Context Protocol)</b> to build scalable and intelligent infrastructures.</p>
-</div>
-
-<br>
-
-<div align=center>
-	<h3>🗂 Projects 🗂</h3>
-</div>
-
-<div align="center">
-
-#### 🌐 Public
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Soku-Convention-Boilerplate](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate) | Reusable convention baseline for readable, automation-friendly, multi-stack repositories | Shell · AI-agent compatible |
+<!-- markdownlint-enable MD013 MD033 MD041 -->
 
 ---
 
-#### 🔒 Private Projects (WIP)
+## 👋 A little about me
 
-| Area | Stack | Status |
-|------|-------|--------|
-| Personal Portfolio Site | Go · Terraform · GCP · TypeScript | 🔒 In Progress |
-| Google Workspace Automation Platform | TypeScript · Python · GAS | 🔒 In Progress |
-| Web Video Editor (WebCodecs) | TypeScript · CSS | 🔒 In Progress |
-| GAS Report & Research Hub | JavaScript · GAS · HTML | 🔒 In Progress |
-| Architecture Visualization Tool | JavaScript · HTML | 🔒 In Progress |
-| Introduce Website | — | 🔒 In Progress |
+I am a Korean DX engineer working in Japan. My work sits between business
+operations and engineering: I translate real operational needs into automation,
+cloud systems, and developer workflows that remain understandable after the
+first release.
 
-> Active development ongoing. Some projects will be open-sourced when ready.
+My current focus is **Soku**, an ecosystem for making repository conventions,
+lifecycle changes, and CI/CD governance explicit and reviewable. I care about
+systems that explain who owns a decision, what has been verified, and where
+human approval is still required.
 
-</div>
+### 🇰🇷 한국어
 
-<br>
+한국 출신으로 일본에서 근무하는 DX 엔지니어입니다. Google 생태계와 클라우드,
+소프트웨어 개발 경험을 바탕으로 실제 업무 요구사항을 유지보수 가능한 자동화와
+개발 워크플로로 연결합니다.
 
-<div align=center>
-	<h3>🛠 Develop Tools 🛠</h3>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-	<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-</div>
+한국어는 모국어로서 기획 의도와 기술적 판단을 가장 정확하게 전달하는 언어입니다.
+요구사항 정리부터 시스템 설계, 운영 문서, 코드 리뷰까지 맥락과 근거가 남는 소통을
+중요하게 생각합니다. 현재는 Soku를 통해 저장소 운영과 안전한 자동화의 기준을
+만들고 있습니다.
 
-<br>
+### 🇯🇵 日本語
 
-<div align=center>
-	<h3>📊 GitHub Stats 📊</h3>
-	<img src="https://github-readme-stats.vercel.app/api?username=Soku-JINSEOK&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku-JINSEOK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</div>
+韓国出身で、日本を拠点に活動している DX エンジニアです。Google
+エコシステム、クラウド、ソフトウェア開発の経験を生かし、実際の業務要件を
+保守しやすい自動化と開発ワークフローにつなげています。
 
-<br>
+日本語は日々の業務で使用しており、要件整理、設計方針の説明、運用文書の作成、
+関係者との調整まで対応しています。業務上の背景と技術的な判断を同じ文脈で共有し、
+認識のずれを減らすことを大切にしています。現在は Soku を通じて、リポジトリ運用と
+安全な自動化の基準を整備しています。
+
+## ✨ Building Soku
+
+Soku is less about adding another tool and more about making change safer to
+understand.
+
+- **🧩 One convention lifecycle** — building toward a single `soku` CLI for
+  initialization, applied-state visibility, review, and safe upgrades.
+- **🛡️ Clear governance boundaries** — keeping registry, pipeline, provider,
+  and approval responsibilities explicit.
+- **🔁 A real product feedback loop** — applying conventions to product
+  repositories instead of designing them only in a template.
+
+**[Soku-Convention-Boilerplate](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate)**
+is the public convention entrypoint. It owns the planned lifecycle, manifest,
+managed-file ownership model, and generic provider boundary. Follow
+[roadmap #23](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate/issues/23)
+for its direction.
+
+**`ci-cd-control-plane` · Private** owns registry, versioned pipeline,
+governance, and declarative CI/CD provider contracts. It is in active
+development and does not define a second CLI.
+
+> [!NOTE]
+> Unfinished CLI, provider, and delivery capabilities are described as planned
+> work—not as generally available features.
+
+## 💻 Core languages
+
+<!-- markdownlint-disable MD013 MD033 -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
+
+<!-- markdownlint-enable MD013 MD033 -->
+
+## 🗂️ Selected projects
+
+Private repositories are intentionally presented without links or changing
+status fields.
+
+- **🎬 CutVi** — local, privacy-first video and audio processing.
+  `TypeScript · React · Electron · FFmpeg`
+- **🏗️ Archviz** — YAML architecture modeling with explicitly approved load
+  testing. `Go · React · YAML`
+- **📚 report-hub** — a personal Apps Script hub for research and reports.
+  `JavaScript · Google Apps Script · Google Sheets`
+- **🌏 SOKU-PR-site** — a planned multilingual portfolio and GCP serverless
+  architecture experiment. `Angular planned · Go · GCP delivery gated`
+
+## 🧭 How I work
+
+- **Issue-first** to make intent and acceptance criteria visible.
+- **Contract-first** to keep interfaces and ownership reviewable.
+- **Verification-centered** to support claims with checks and tests.
+- **Explicit approval** for delivery and security-sensitive operations.
+- **AI disclosure** with the same review standard as human-authored work.
+
+## 📍 Find the current work
+
+[Repository Operations · GitHub Project #2](https://github.com/users/Soku-JINSEOK/projects/2)
+is the source of truth for status, priority, and target dates. Some views and
+private repositories may require access.
+
+For public work, use the relevant repository's Issues. For broader contact,
+reach me through my [GitHub profile](https://github.com/Soku-JINSEOK).
+
+---
+
+<!-- markdownlint-disable MD033 -->
+
+<p align="center">
+  <sub>Readable conventions · Safe automation · Verifiable delivery</sub>
+</p>
+
+<!-- markdownlint-enable MD033 -->
