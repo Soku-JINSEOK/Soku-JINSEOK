@@ -20,7 +20,7 @@
 
   <p>
     <a href="https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate">Boilerplate</a>
-    · <a href="https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate/issues/23">Roadmap #23</a>
+    · <a href="https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate/issues/126">Release readiness #126</a>
     · <a href="https://github.com/users/Soku-JINSEOK/projects/2">Operations</a>
   </p>
 </div>
@@ -76,14 +76,17 @@ understand.
   repositories instead of designing them only in a template.
 
 **[Soku-Convention-Boilerplate](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate)**
-is the public convention entrypoint. It owns the planned lifecycle, manifest,
-managed-file ownership model, and generic provider boundary. Follow
-[roadmap #23](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate/issues/23)
-for its direction.
+is the public convention entrypoint. It owns the lifecycle, manifest,
+managed-file ownership model, and generic provider boundary. Its completed
+roadmap is preserved in
+[roadmap #23](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate/issues/23);
+current public release-readiness work is tracked in
+[#126](https://github.com/Soku-JINSEOK/Soku-Convention-Boilerplate/issues/126).
 
-**`ci-cd-control-plane` · Private** owns registry, versioned pipeline,
-governance, and declarative CI/CD provider contracts. It is in active
-development and does not define a second CLI.
+**`ci-cd-control-plane` · Private · publication under review** owns registry,
+versioned pipeline, governance, and declarative CI/CD provider contracts. It
+does not define a second CLI, and no public release or delivery approval is
+implied here.
 
 > [!NOTE]
 > Unfinished CLI, provider, and delivery capabilities are described as planned
@@ -104,17 +107,20 @@ development and does not define a second CLI.
 
 ## 🗂️ Selected projects
 
-Private repositories are intentionally presented without links or changing
-status fields.
+Private repositories are intentionally presented without links, internal issue
+numbers, operational dates, or delivery details.
 
-- **🎬 CutVi** — local, privacy-first video and audio processing.
+- **🎬 CutVi · personal-use packaging** — local, privacy-first video and audio
+  processing; no supported public desktop download is claimed.
   `TypeScript · React · Electron · FFmpeg`
-- **🏗️ Archviz** — YAML architecture modeling with explicitly approved load
-  testing. `Go · React · YAML`
-- **📚 report-hub** — a personal Apps Script hub for research and reports.
+- **🏗️ Archviz · active hardening** — YAML architecture modeling with
+  explicitly approved load testing. `Go · React · YAML`
+- **📚 report-hub · v1 closeout** — a personal Apps Script hub moving through
+  portfolio-quality hardening, not a generally available service.
   `JavaScript · Google Apps Script · Google Sheets`
-- **🌏 SOKU-PR-site** — a planned multilingual portfolio and GCP serverless
-  architecture experiment. `Angular planned · Go · GCP delivery gated`
+- **🌏 SOKU-PR-site · local prototype** — implemented Angular and Go portfolio
+  experiment with executable validation; authentication, production runtime,
+  and GCP delivery remain gated. `Angular · Go · GCP delivery gated`
 
 ## 🧭 How I work
 
@@ -132,6 +138,11 @@ private repositories may require access.
 
 For public work, use the relevant repository's Issues. For broader contact,
 reach me through my [GitHub profile](https://github.com/Soku-JINSEOK).
+
+Profile claims and links are reviewed after a release, visibility or archive
+change, support-boundary decision, and at least quarterly. Each review checks
+that implemented, planned, private, experimental, and delivery-gated states
+remain distinguishable without disclosing private operational details.
 
 ---
 
