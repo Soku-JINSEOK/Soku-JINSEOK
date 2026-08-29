@@ -1,0 +1,7 @@
+{
+  "name": "soku-jinseok-profile",
+  "private": true,
+  "scripts": {
+    "verify:profile": "node --test tests/profile-validation.test.mjs && node scripts/verify-profile.mjs"
+  }
+}
