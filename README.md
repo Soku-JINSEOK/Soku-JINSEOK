@@ -82,6 +82,10 @@ flowchart TB
 
 ### 🛠️ Selected Projects
 
+These private projects remain under validation; the summaries describe their scope, not deployment readiness.
+한국어: 아래 비공개 프로젝트는 검증 중이며, 소개는 배포 완료를 의미하지 않습니다.
+日本語: 以下の非公開プロジェクトは検証中です。紹介はデプロイ完了を示すものではありません。
+
 ### 🎬 CutVi `[Private · Selected details]`
 > **Desktop Media Packaging & Processing Tool**
 >
@@ -97,17 +101,17 @@ flowchart TB
 > * **Tech Stack:** `Go` `React` `YAML`
 
 ### 📚 report-hub `[Private · Selected details]`
-> **Automated Business Intelligence & Reporting Pipeline**
+> **Personal Research & Report Blog MVP**
 >
-> * **Objective:** Automated operational data aggregation and multi-source reporting.
-> * **Engineering Highlights:** High-reliability batch data transformation, sheet synchronization, and reporting automation for business operations.
+> * **Objective:** Browse and author research notes and reports using a personal Google account.
+> * **Engineering Highlights:** Apps Script web app with Google Sheets post data and Docs/Drive content integration; private-environment validation is ongoing.
 > * **Tech Stack:** `JavaScript` `Google Apps Script` `Google Sheets`
 
 ### 🌏 SOKU-PR-site `[Private · Selected details]`
 > **Multilingual Cloud Portfolio Platform Prototype**
 >
 > * **Objective:** Type-safe multilingual portfolio platform with decoupled cloud backend.
-> * **Engineering Highlights:** Type-safe multilingual rendering, executable validation, and serverless integration.
+> * **Engineering Highlights:** Multilingual rendering and a locally validated backend prototype; identity, persistence, and private-runtime verification remain in progress.
 > * **Tech Stack:** `Angular` `Go` `GCP`
 
 ---
@@ -117,10 +121,10 @@ flowchart TB
 <!-- markdownlint-disable MD013 MD033 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
 </p>
 
 <!-- markdownlint-enable MD013 MD033 -->
@@ -147,7 +151,7 @@ Engineering quality is defined by predictable delivery, testable code, and trans
 
 ## 📍 Explore My Work
 
-* **Live Status & Roadmap:** [Repository Operations · GitHub Project #2](https://github.com/users/Soku-JINSEOK/projects/2) is the source of truth for current status and priorities.
+* **Public work:** Browse [public repositories](https://github.com/Soku-JINSEOK?tab=repositories) for the available source and documentation.
 * **Location:** Japan 🇯🇵
 
 ---
