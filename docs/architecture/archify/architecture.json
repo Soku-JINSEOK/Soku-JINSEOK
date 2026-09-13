@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Soku Profile",
+    "quality_profile": "showcase",
+    "repository": {
+      "url": "https://github.com/Soku-JINSEOK/Soku-JINSEOK",
+      "provider": "github",
+      "link_mode": "local-only",
+      "revision": "42bb511c2fec704c9d47a62240b3d172f7a73753"
+    },
+    "viewBox": [
+      1140,
+      520
+    ]
+  },
+  "components": [
+    {
+      "id": "profile",
+      "type": "frontend",
+      "label": "Profile README",
+      "sublabel": "identity",
+      "pos": [
+        40,
+        220
+      ],
+      "size": [
+        150,
+        72
+      ],
+      "sources": [
+        {
+          "path": "README.md"
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "type": "external",
+      "label": "Featured work",
+      "sublabel": "curated links",
+      "pos": [
+        220,
+        220
+      ],
+      "size": [
+        150,
+        72
+      ],
+      "sources": [
+        {
+          "path": "README.md"
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "type": "external",
+      "label": "Project repos",
+      "sublabel": "source links",
+      "pos": [
+        400,
+        220
+      ],
+      "size": [
+        150,
+        72
+      ],
+      "sources": [
+        {
+          "path": "README.md"
+        }
+      ]
+    },
+    {
+      "id": "ecosystem",
+      "type": "cloud",
+      "label": "Soku ecosystem",
+      "sublabel": "related systems",
+      "pos": [
+        580,
+        220
+      ],
+      "size": [
+        150,
+        72
+      ],
+      "sources": [
+        {
+          "path": "README.md"
+        }
+      ]
+    },
+    {
+      "id": "viewer",
+      "type": "frontend",
+      "label": "Visitor",
+      "sublabel": "read-only view",
+      "pos": [
+        760,
+        220
+      ],
+      "size": [
+        150,
+        72
+      ],
+      "sources": [
+        {
+          "path": "README.md"
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "profile-work",
+      "from": "profile",
+      "to": "work",
+      "label": "publishes",
+      "labelDy": 60,
+      "variant": "emphasis"
+    },
+    {
+      "id": "work-projects",
+      "from": "work",
+      "to": "projects",
+      "label": "curates",
+      "labelDy": 60,
+      "variant": "default"
+    },
+    {
+      "id": "projects-ecosystem",
+      "from": "projects",
+      "to": "ecosystem",
+      "label": "links",
+      "labelDy": 60,
+      "variant": "default"
+    },
+    {
+      "id": "ecosystem-viewer",
+      "from": "ecosystem",
+      "to": "viewer",
+      "label": "presents",
+      "labelDy": 60,
+      "variant": "default"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Flow basis",
+      "items": [
+        "README → featured work → ecosystem",
+        "Static profile surface; no runtime mutation"
+      ]
+    }
+  ]
+}
