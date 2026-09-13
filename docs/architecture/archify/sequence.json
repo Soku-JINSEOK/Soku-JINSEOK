@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "diagram_type": "sequence",
+  "meta": {
+    "title": "Soku Profile sequence",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1000,
+      650
+    ],
+    "column_fit": "spread"
+  },
+  "participants": [
+    {
+      "id": "profile",
+      "type": "frontend",
+      "label": "Profile README"
+    },
+    {
+      "id": "work",
+      "type": "external",
+      "label": "Featured work"
+    },
+    {
+      "id": "projects",
+      "type": "external",
+      "label": "Project repos"
+    },
+    {
+      "id": "ecosystem",
+      "type": "cloud",
+      "label": "Soku ecosystem"
+    },
+    {
+      "id": "viewer",
+      "type": "frontend",
+      "label": "Visitor"
+    }
+  ],
+  "messages": [
+    {
+      "id": "m1",
+      "from": "profile",
+      "to": "work",
+      "y": 160,
+      "label": "publishes",
+      "variant": "emphasis"
+    },
+    {
+      "id": "m2",
+      "from": "work",
+      "to": "projects",
+      "y": 205,
+      "label": "curates",
+      "variant": "default"
+    },
+    {
+      "id": "m3",
+      "from": "projects",
+      "to": "ecosystem",
+      "y": 260,
+      "label": "links",
+      "variant": "default"
+    },
+    {
+      "id": "m4",
+      "from": "ecosystem",
+      "to": "viewer",
+      "y": 315,
+      "label": "presents",
+      "variant": "default"
+    },
+    {
+      "id": "m5",
+      "from": "viewer",
+      "to": "ecosystem",
+      "y": 370,
+      "label": "returns",
+      "variant": "default"
+    },
+    {
+      "id": "m6",
+      "from": "projects",
+      "to": "work",
+      "y": 425,
+      "label": "returns",
+      "variant": "default"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Flow basis",
+      "items": [
+        "README → featured work → ecosystem",
+        "Static profile surface; no runtime mutation"
+      ]
+    }
+  ]
+}

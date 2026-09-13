@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Soku Profile workflow",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1200,
+      600
+    ]
+  },
+  "lanes": [
+    {
+      "id": "client",
+      "label": "Client"
+    },
+    {
+      "id": "service",
+      "label": "Service"
+    },
+    {
+      "id": "data",
+      "label": "Data"
+    }
+  ],
+  "mainPath": [
+    "n1",
+    "n2",
+    "n3",
+    "n4",
+    "n5"
+  ],
+  "nodes": [
+    {
+      "id": "n1",
+      "lane": "client",
+      "col": 0,
+      "type": "frontend",
+      "label": "Profile README",
+      "width": 150
+    },
+    {
+      "id": "n2",
+      "lane": "service",
+      "col": 1,
+      "type": "external",
+      "label": "Featured work",
+      "width": 150
+    },
+    {
+      "id": "n3",
+      "lane": "service",
+      "col": 2,
+      "type": "external",
+      "label": "Project repos",
+      "width": 150
+    },
+    {
+      "id": "n4",
+      "lane": "data",
+      "col": 3,
+      "type": "cloud",
+      "label": "Soku ecosystem",
+      "width": 150
+    },
+    {
+      "id": "n5",
+      "lane": "data",
+      "col": 4,
+      "type": "frontend",
+      "label": "Visitor",
+      "width": 150
+    }
+  ],
+  "edges": [
+    {
+      "id": "n1-n2",
+      "from": "n1",
+      "to": "n2",
+      "role": "main",
+      "label": "publishes"
+    },
+    {
+      "id": "n2-n3",
+      "from": "n2",
+      "to": "n3",
+      "role": "main",
+      "label": "curates"
+    },
+    {
+      "id": "n3-n4",
+      "from": "n3",
+      "to": "n4",
+      "role": "main",
+      "label": "links"
+    },
+    {
+      "id": "n4-n5",
+      "from": "n4",
+      "to": "n5",
+      "role": "main",
+      "label": "presents"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Flow basis",
+      "items": [
+        "README → featured work → ecosystem",
+        "Static profile surface; no runtime mutation"
+      ]
+    }
+  ]
+}
